@@ -1,4 +1,3 @@
-LIPIANU FLORIN OVIDIU 323CA TEMA-3 PC
 
 Pentru realizarea temei, am pornit de la implementarea laboratorului de
 HTTP, creand si trimitand obiecte in format JSON, folosind biblioteca parson.
